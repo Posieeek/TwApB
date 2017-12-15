@@ -1,0 +1,34 @@
+3. Commits on Dec 15, 2017  
+
+Poprawka
+Joanna Kolodziejczyk committed 4 minutes ago
+
+4. 4 pliki: Instrukcja, InstrukcjaGit, README.md, instruction.pdf
+5. Zawartoœæ README.md jest nastêpuj¹ca: "Test-Ruby
+
+To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych"
+
+6.  git init
+
+7. 
+git add MaciejZawadzki.txt
+commit -m "dodano plik MaciejZawadzki.txt"
+git push -u origin
+
+8. 
+cd ..
+mkdir kopia
+cd kopia
+git clone https://github.com/elois/Test-Ruby
+
+9.  
+ git config --global user.name "Posieeek"
+ git config --global user.email posieeek@gmail.com
+ git add MaciejZawadzki.txt
+ git commit -m "dodano"
+ git add zad1.rb
+ git commit -m "dodano zadanie1"
+ git add zad2.rb
+ git commit -m "dodano zadanie2"
+ git add remote origin https://github.com/Posieeek/TwApB
+ git push -u origin master

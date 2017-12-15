@@ -1,0 +1,22 @@
+3. Commits on Dec 15, 2017  
+
+Poprawka
+Joanna Kolodziejczyk committed 4 minutes ago
+
+4. 4 pliki: Instrukcja, InstrukcjaGit, README.md, instruction.pdf
+5. Zawartoœæ README.md jest nastêpuj¹ca: "Test-Ruby
+
+To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych"
+
+6.  git init
+
+7. 
+touch MaciejZawadzki 
+
+8. 
+cd ..
+mkdir kopia
+cd kopia
+git clone https://github.com/elois/Test-Ruby
+
+9.
